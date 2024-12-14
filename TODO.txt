@@ -1,1 +1,2 @@
 Add border detection
+Country resets
